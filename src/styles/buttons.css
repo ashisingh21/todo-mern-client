@@ -1,0 +1,4 @@
+button.btn-theme-primary,.btn-theme-primary:hover,.btn-theme-primary:active,.btn-theme-primary:focus{
+    background-color: var(--color-theme-primary);
+    color: white;
+}
